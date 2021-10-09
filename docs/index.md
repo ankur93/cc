@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Gully Badgers Cricket club
 
 You can use the [editor on GitHub](https://github.com/ankur93/cc/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
